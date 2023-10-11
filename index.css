@@ -1,0 +1,28 @@
+.green{
+    color: greenyellow;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1em;
+}
+body{
+    background-color: aqua;
+}
+#to-from{
+    font-family: 'Roboto';
+}
+.input{
+    padding-left: 10px;
+    padding-top: 10px;
+    width: fit-content;
+}
+#fancyDateInput{
+    padding-top: 10px;
+    font-family: 'Roboto';
+    width: fit-content;
+}
+.class-selecter{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Roboto';
+    width: fit-content;
+}
+
